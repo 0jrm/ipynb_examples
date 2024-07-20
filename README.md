@@ -1,2 +1,4 @@
 # ipynb_examples
-Small portfolio of python projects, in jupyter notebook format
+Jupyter notebooks with short projects or examples.
+
+- RCAN_chatGPT: Breakdown and reproduction of RCAN, a state-of-the-art ML super-resolution technique. This was done using ChatGPT's code interpreter (now Data Analyst) when it launched.
